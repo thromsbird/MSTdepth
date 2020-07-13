@@ -24,7 +24,8 @@ $ ./MSTdepth ../data/museum1.jpg.geometric.bin ../data/museum1.jpg.mono.png ../d
 
 **Result:**
 
-![img](demo.jpg)
+<p align="center">
+  <img src="demo.jpg"/></p>
 
 ## Citation
 
