@@ -26,6 +26,15 @@ $ ./MSTdepth ../data/museum1.jpg.geometric.bin ../data/museum1.jpg.mono.png ../d
 
 <p align="center">
   <img src="demo.jpg"/></p>
+  
+**Run your images:**
+
+The MVS depth map (museum1.jpg.geometric.bin) can be obtained by [COLMAP](https://colmap.github.io/index.html).
+
+The Monocular depth map (museum1.jpg.mono.png, 16bit) can be obtained by [MegaDepth](https://github.com/zhengqili/MegaDepth).
+
+You can also use other methods to generate MVS depth and monocular depth but may need to rewrite some functions to read your depth map file.
+
 
 ## Citation
 
